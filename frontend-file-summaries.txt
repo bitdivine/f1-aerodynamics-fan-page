@@ -1,7 +1,0 @@
-{
-  "frontend/src/App.tsx": "Main application component that renders the F1 aerodynamics fan page with header, three educational sections (Downforce, Drag, Wings), and footer.",
-  "frontend/src/components/Header.tsx": "Header component displaying the site title \"F1 Aerodynamics Explained\" with F1-inspired red and black gradient styling and a wind icon.",
-  "frontend/src/components/AeroSection.tsx": "Reusable section component that displays aerodynamics content with alternating image/text layout and a styled title with red accent border.",
-  "frontend/src/components/Footer.tsx": "Footer component with educational disclaimer, fan-made attribution, and caffeine.ai credit with heart icon.",
-  "frontend/src/index.css": "Global styles with F1-inspired OKLCH color system featuring white background, black primary, and racing red (destructive) accents for both light and dark modes."
-}
